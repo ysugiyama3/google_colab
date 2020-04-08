@@ -1,12 +1,15 @@
 # google_colab
 
-Try out library technical services related automation processes on Colab
+Try out library technical services related automation processes on Google Colab
 
 * Cataloging Copy Lookup Program
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ysugiyama3/google_colab/blob/master/cataloging_copy_lookup.ipynb)
-
+  - Sample test file available [here](https://github.com/ysugiyama3/google_colab/blob/master/test/cataloging_copy_test.xlsx)
+  
 * Link Checker
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ysugiyama3/google_colab/blob/master/link_checker.ipynb)
-
+  - Sample test file available [here](https://github.com/ysugiyama3/google_colab/blob/master/test/link_checker_test.xlsx)
+  
 * MARC Record Genrator (for Yale Film Studies Center)
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ysugiyama3/google_colab/blob/master/film_reels_marc_records.ipynb)
+  - Sample test file available [here](https://github.com/ysugiyama3/google_colab/blob/master/test/film_reel_marc_test.csv)
